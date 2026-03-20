@@ -2,13 +2,13 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
     <g transform="matrix(8.50396e-17,1.3888,-4.08155,2.49923e-16,702.932,-190.982)">
-        <rect x="193.998" y="85.874" width="170.281" height="75.536" style="fill:rgb(235,235,235);stroke:black;stroke-width:2.95px;"/>
+        <rect x="193.998" y="85.874" width="170.281" height="75.536" style="fill:inherit;stroke:black;stroke-width:2.95px;"/>
     </g>
     <g transform="matrix(2.39875e-17,0.391745,-0.415407,2.54363e-17,409.038,19.6867)">
-        <rect x="193.998" y="85.874" width="170.281" height="75.536" style="fill:rgb(235,235,235);stroke:black;stroke-width:22.29px;"/>
+        <rect x="193.998" y="85.874" width="170.281" height="75.536" style="fill:inherit;stroke:black;stroke-width:22.29px;"/>
     </g>
     <g transform="matrix(1.24248e-17,0.202912,-0.30311,1.85601e-17,392.633,222.801)">
-        <rect x="193.998" y="85.874" width="170.281" height="75.536" style="fill:rgb(235,235,235);stroke:black;stroke-width:34.89px;"/>
+        <rect x="193.998" y="85.874" width="170.281" height="75.536" style="fill:inherit;stroke:black;stroke-width:34.89px;"/>
     </g>
 </svg>
 
